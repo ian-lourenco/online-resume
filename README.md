@@ -8,6 +8,8 @@ _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web A
 
 [Mail me](mailto:ianlourenco@protomnail.com) / [LinkedIn](https://www.linkedin.com/in/ian-lourenco/) / [GitHub](https://github.com/ianlourenco) / [Blogposts](https://blog.codeminer42.com/author/ian-lourenco)
 
+<hr>
+
 ## 👨‍💻 Work Experience
 
 ### **CodeMiner42** | *Remote*
@@ -43,7 +45,7 @@ _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web A
 
 ## 🎓 Education
 
-**University of São Paulo (USP)** | *São Paulo, SP*  
+### **University of São Paulo (USP)** | *São Paulo, SP*  
 Bachelor of Information Systems | Jan 2024
 
 - Participated in an InfoSec Study Group.
