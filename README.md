@@ -12,8 +12,8 @@ _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web A
 
 ## 👨‍💻 Work Experience
 
-### **CodeMiner42** | *Remote*
-*Software Engineer* | July 2023 – Oct 2025
+### **CodeMiner42** / *Remote*
+*Software Engineer* / July 2023 – Oct 2025
 
 [Codeminer42](https://www.codeminer42.com) is a software development company specializing in custom solutions, digital product development, and tech consulting for startups and enterprises.
 
@@ -24,20 +24,22 @@ _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web A
     - Created an internal app for ABS Global for listing and tracking bulls and their info for their respective owners, the dashboard contained thourough stats, the data came from Excel spreadsheets through rails services objects of our making.
     - Contributed to internal CodeMiner42 projects, like their current website, an upcoming HR related software, I also wrote articles for the Miners' Blog ([blog.codeminer42.com/author/ian-lourenco](https://blog.codeminer42.com/author/ian-lourenco)).
 
-*Software Engineer Trainee* | July 2023 – Oct 2023
+<br>
+
+*Software Engineer Trainee* / July 2023 – Oct 2023
 
 - Learned fundamentals of web development with Ruby on Rails and Web Engineering.
 - Worked on internal projects under the mentorship of senior company engineers.
 
-### **Bradesco Bank** | *Osasco, SP*
-*Portfolio and Results Management Intern* | Oct 2019 – June 2021
+### **Bradesco Bank** / *Osasco, SP*
+*Portfolio and Results Management Intern* / Oct 2019 – June 2021
 
 - Exported sales and tariffs information using SQL Server and database exports.
 - Assisted agency managers with the newly implemented system for tariff reimbursement.
 - Performed tariffs analysis using Excel.
 
-### **J&F Institute** | *São Paulo, SP*
-*Tech Assistant* | April 2016 – June 2016
+### **J&F Institute** / *São Paulo, SP*
+*Tech Assistant* / April 2016 – June 2016
 
 - Provided Help Desk support during the day and performed tech maintenance (servers and computers) at night.
 
@@ -45,8 +47,8 @@ _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web A
 
 ## 🎓 Education
 
-### **University of São Paulo (USP)** | *São Paulo, SP*  
-Bachelor of Information Systems | Jan 2024
+### **University of São Paulo (USP)** / *São Paulo, SP*  
+Bachelor of Information Systems / Jan 2024
 
 - Participated in an InfoSec Study Group.
 - Participated in a Web Development Study Group.
