@@ -1,8 +1,3 @@
----
-layout: default
-title: Resume
----
-
 # Ian Lourenço Bezerra da Silva
 
 _Back-end Software Engineer with 2.5+ years of experience in REST APIs and Web Applications with Ruby on Rails based in Brazil 🇧🇷_
